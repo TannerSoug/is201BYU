@@ -1,0 +1,83 @@
+.bodyabout {
+    background-image:url("../images/BYU\ RWC.jpeg");
+    background-attachment: fixed;
+    background-position: center;
+    background-size: 200px;
+  }
+
+.bodyindex {
+    background-image: url("../images/byupic.png");
+    background-attachment: fixed;
+    background-position: center;
+    background-size: 700px;
+  }
+
+.indent {
+    text-indent: 50px;
+}
+
+.bold {
+    font-weight: bolder;
+}
+
+.italic{
+    font-style: italic;
+}
+
+.color{
+    color: brown;
+}
+
+.color2{
+    color: green;
+}
+
+.color4{
+    color: lightblue;
+}
+
+
+
+.align{
+    text-align: center;
+}
+
+
+.font{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.font2{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.color3{
+    color:lightsalmon
+}
+
+.center-graphic{
+    margin: auto;
+    max-width: 1000px;
+
+}
+
+.fontfamily2{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+.fontsize{
+    font-size:larger;
+}
+
+
+.headerblock{
+    height: 1vh;
+    width: 100%;
+    padding: 8%;
+    background: rgb(102, 101, 98);
+    position: relative;
+    opacity: 0.5;
+
+}
+

@@ -1,0 +1,96 @@
+.bodytableau {
+    background-image: url("../images/byupic.png");
+    background-attachment: fixed;
+    background-position: center;
+    background-size: 700px;
+  }
+
+
+.italic{
+    font-style: italic;
+}
+
+.color{
+    color: lightblue;
+}
+
+
+.color2{
+    color: green;
+}
+
+.color4{
+    color: white;
+}
+
+
+.align{
+    text-align: center;
+}
+
+.font2{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.color3{
+    color:lightsalmon
+}
+
+.center-graphic{
+    margin: auto;
+    max-width: 1000px;
+
+}
+
+.fontsize{
+    font-size:larger;
+}
+
+
+.headerblock{
+    height: 80px;
+    width: 100%;
+    /* padding: 8%; */
+    background: rgb(180, 50, 50);
+    position: relative;
+    opacity: .5;
+
+}
+
+
+.block {
+    position: relative;
+    top: -1px;
+  }
+
+  .block2 {
+    color: #000;
+    background-color: lightblue;
+    border-color: #0a0908;
+  }
+
+  .blocktext {
+    font-weight: 700;
+    font-size: 0.8rem;
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+
+  }
+
+
+  .block3 {
+    color: rgb(139, 189, 204);
+    background-color: rgb(13, 129, 42);
+    border-color: #dbd7d3;
+    text-align: center;
+   
+  }
+
+
+
+.align{
+    text-align: center;
+}
+  
